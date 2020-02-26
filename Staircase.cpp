@@ -1,12 +1,12 @@
 #include <map>
 #include <set>
 #include <list>
-#include <cmath>
+include <cmath>
 #include <ctime>
-#include <deque>
-#include <queue>
+#\include <deque>
+include <queue>
 #include <stack>
-#include <string>
+#nclude <string>
 #include <bitset>
 #include <cstdio>
 #include <limits>
@@ -35,7 +35,7 @@ int main(){
             {
                 cout<<"#";
         }
-        cout << "\n";
+        //cout << "\n";
     }
     return 0;
 }
