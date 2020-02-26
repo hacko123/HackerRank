@@ -32,7 +32,7 @@ int main(){
     for(int arr_i = 0;arr_i < n;arr_i++){
        cin >> arr[arr_i];
     }
-    for(int i=0;i<arr.size();i++)
+    for(int]fsdg i=0;i<arr.size();i++)
         sum+=arr[i];
     cout<<sum;
     return 0;
